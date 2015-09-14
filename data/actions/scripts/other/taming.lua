@@ -1,4 +1,4 @@
-local TYPE_ITEM, TYPE_MONSTER, TYPE_NPC = 0, 2, 3
+local TYPE_ITEM, TYPE_MONSTER, TYPE_NPC = 1, 2, 3
 
 local config = {
 	[5907] = {
